@@ -36,27 +36,27 @@ It helps in learning:
 
 📂Project Files
 -
-salary-prediction/
-│── Salary_Data.csv
-│── salary_prediction.py
-│── README.md
+salary-prediction/  
+│── Salary_Data.csv  
+│── salary_prediction.py  
+│── README.md  
 
 
 👨‍💻How to Run the Project
 -
-Step 1: Install Required Libraries
+Step 1: Install Required Libraries  
 pip install NumPy pandas matplotlib scikit-learn
 
-Step 2: Keep Dataset Ready
+Step 2: Keep Dataset Ready  
 Make sure the file Salary_Data.csv is in the same folder as the Python script.
 
-Step 3: Run the Python File
+Step 3: Run the Python File  
 python salary_prediction.py
 
-Step 4: Enter Experience
+Step 4: Enter Experience  
 Enter experience:
 
-
+  
 📄Learning Outcomes
 -
 From this project, I learned:
@@ -66,7 +66,7 @@ From this project, I learned:
 •	how to visualize actual and predicted values using graphs
 •	how user input can be connected with trained models
 
-
+  
 ✨Features
 -
 •	Loads salary dataset from a CSV file
@@ -76,7 +76,7 @@ From this project, I learned:
 •	Accepts user input for custom prediction
 •	Visualizes data using scatter plot and regression line
 •	Simple and beginner-friendly Python project
-
+  
 🚀 Future Improvements
 -
 This project can be improved by:
@@ -84,7 +84,7 @@ This project can be improved by:
 •	using multiple linear regression
 •	creating a GUI for easier interaction
 •	deploying it as a web app using Flask or Streamlit.
-
+  
 👥Target Users
 -
 This project is useful for:
@@ -92,13 +92,13 @@ This project is useful for:
 - Beginners who want to understand Linear Regression
 - Educators demonstrating simple prediction models
 - Anyone interested in salary prediction based on experience
-
+   
 📄Conclusion
 -
 This project is a basic implementation of Linear Regression to predict salary based on years of experience.
 It is useful for understanding how machine learning models are trained, tested, and visualized using Python.
 Overall, it is a simple yet effective beginner project for learning predictive analysis.
-
+  
 
 📄License
 -
