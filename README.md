@@ -36,7 +36,7 @@ It helps in learning:
 
 📂Project Files
 -
-salary-prediction/  
+Salary-Predictor-Linear/  
 │── Salary_Data.csv  
 │── Salary_predictor.py  
 │── Salary_vs_Experience.png  
