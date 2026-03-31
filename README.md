@@ -39,7 +39,7 @@ It helps in learning:
 salary-prediction/  
 │── Salary_Data.csv  
 │── Salary_predictor.py  
-│── Salary_vs_Experience.png
+│── Salary_vs_Experience.png  
 │── README.md  
 
 
