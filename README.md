@@ -41,6 +41,7 @@ Salary-Predictor-Linear/
 │── Salary_predictor.py  
 │── Salary_vs_Experience.png  
 │── README.md  
+│── Project_Report_AIML  
 
 
 👨‍💻How to Run the Project
